@@ -1,0 +1,7 @@
+type: target-group
+name: Magnus Jurdal
+description: Test
+conditions:
+  - operator: regex
+    property: MJ
+    operand: '1'
