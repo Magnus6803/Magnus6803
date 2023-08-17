@@ -9,5 +9,5 @@ Leave me alone
 Magnus6803/Magnus6803 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Magnus Jurda
+Magnus Jurdal
 ---
