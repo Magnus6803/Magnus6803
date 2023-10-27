@@ -4,4 +4,13 @@ description: My own
 labels:
   - MJ
 flag: Magnus Jurdal
-value: false
+conditions:
+  - property:
+      name: MJ
+      operator: regex
+      operand: '1'
+    value: true
+  - group:
+      name: Magnus Jurdal
+    value: true
+value: true
