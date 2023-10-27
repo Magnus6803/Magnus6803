@@ -3,6 +3,7 @@ type: experiment
 description: My own
 labels:
   - MJ
+  - archived
 flag: Magnus Jurdal
 conditions:
   - property:
