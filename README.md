@@ -44,8 +44,7 @@ Rollout repository integration creates the following directory structure:
 flag: default.followingView
 type: experiment
 name: following view
-value: false
-```
+value: True
 This YAML representation in Rollout's dashboard:
 ![dashboard](https://files.readme.io/00b37e6-Screen_Shot_2018-12-03_at_11.47.56.png)
 ### 50% split
