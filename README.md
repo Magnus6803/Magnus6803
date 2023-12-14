@@ -56,9 +56,7 @@ name: following view
 value:
   - option: true
     percentage: 50
-```
-This YAML representation in Rollout's dashboard:
-![dashboard](https://files.readme.io/5af4d9e-Screen_Shot_2018-12-03_at_12.01.28.png)
+
 ### Open feature for QA and Beta Users on version 3.0.1, otherwise close it
 ```yaml
 flag: default.followingView
