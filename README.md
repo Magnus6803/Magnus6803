@@ -10,4 +10,4 @@ N:Jurdal;Magnus;;;
 FN:Magnus Jurdal
 TEL;type=CELL;type=VOICE;type=pref:46768721040
 END:VCARD
-https://www.Spotify.vom/magnusmangejurdal
+https://www.Spotify.vom/magnusjurdal
