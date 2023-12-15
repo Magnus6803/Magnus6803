@@ -8,7 +8,7 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 16.7.2//EN
 N:Jurdal;Magnus;;;
 FN:Magnus Jurdal
-TEL;type=CELL;type=VOICE;type=pref:46768721040
+TEL;type=CELL;type=VOICE;type=pref:46721686774
 END:VCARD
 
 https://open.spotify.com/user/31sarglkz4puo223sw7fpdxdztlu?si=VQzT8iaPTN21lWeCN6nJBg
