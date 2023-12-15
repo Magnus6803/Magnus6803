@@ -1,3 +1,4 @@
+
 Magnus Jurdal
 mj@mjkwh.net
 Check out @Magnus Jurdal on Likee! 👇👇👇
@@ -12,3 +13,4 @@ TEL;type=CELL;type=VOICE;type=pref:46721686774
 END:VCARD
 
 https://open.spotify.com/user/31sarglkz4puo223sw7fpdxdztlu?si=VQzT8iaPTN21lWeCN6nJBg
+t.me/Magnus_jurdal
