@@ -1,4 +1,3 @@
-
 Magnus Jurdal
 mj@mjkwh.net
 Check out @Magnus Jurdal on Likee! 👇👇👇
@@ -14,4 +13,4 @@ END:VCARD
 
 https://open.spotify.com/user/31sarglkz4puo223sw7fpdxdztlu?si=VQzT8iaPTN21lWeCN6nJBg
 t.me/@magnus_jurdal
-https://telegram.org/
+https://open.telegram.org/@magnus_jurdal
