@@ -14,3 +14,4 @@ END:VCARD
 https://open.spotify.com/user/31sarglkz4puo223sw7fpdxdztlu?si=VQzT8iaPTN21lWeCN6nJBg
 t.me/@magnus_jurdal
 https://telegram.org/
+https://www.facebook.com/jurdalmagnus
