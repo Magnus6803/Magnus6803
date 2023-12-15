@@ -10,5 +10,5 @@ N:Jurdal;Magnus;;;
 FN:Magnus Jurdal
 TEL;type=CELL;type=VOICE;type=pref:46768721040
 END:VCARD
-https://www.Spotify.vom/magnusjurdal
+
 https://open.spotify.com/user/31sarglkz4puo223sw7fpdxdztlu?si=VQzT8iaPTN21lWeCN6nJBg
