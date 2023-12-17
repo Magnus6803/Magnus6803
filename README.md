@@ -15,3 +15,4 @@ https://open.spotify.com/user/31sarglkz4puo223sw7fpdxdztlu?si=VQzT8iaPTN21lWeCN6
 https://telegram.org/
 https://www.facebook.com/jurdalmagnus
 https://soundcloud.com/magnus-jurdal
+https://vk.com/id734222671
