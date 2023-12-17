@@ -16,3 +16,4 @@ https://telegram.org/
 https://www.facebook.com/jurdalmagnus
 https://soundcloud.com/magnus-jurdal
 https://vk.com/id734222671
+https://ok.ru/profile/586787747649
