@@ -1,4 +1,4 @@
-Magnus Jurdal
+lMagnus Jurdal
 mj@mjkwh.net
 Check out @Magnus Jurdal on Likee! 👇👇👇
 https://www.facebook.com/jurdalmagnus
@@ -23,3 +23,4 @@ https://mastodon.social/@magnusjurdal
 https://signal.group/#CjQKIE2sH-nONb7NN7nYHSPGS19snwZu-L_8x7Yz8mXyOgz6EhCI6L3dkRzgbJI8YIfe0uYV
 Join me on LINE, the all-in-one communication app!
 https://line.me/ti/p/ezyNNAoC6_
+https://www.reddit.com/u/Vast-Departure-2008/s/1muYm1biBD
