@@ -32,3 +32,4 @@ https://www.linkedin.com/in/magnus-jurdal-858565288?u
 https://account.microsoft.com/?refd=
 https://support.discord.com/hc/sv/profiles/10758636141719
 https://support.discord.com/hc/sv/profiles/10758636141719
+https://github.com/Magnus6803
