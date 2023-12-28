@@ -29,3 +29,4 @@ https://medium.com/me/settings#account
 live:.cid.34a80ba9cd5ebcc
 https://t.snapchat.com/uWahZ8L2
 https://www.linkedin.com/in/magnus-jurdal-858565288?u
+https://account.microsoft.com/?refd=account.microsoft.com
