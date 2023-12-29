@@ -40,3 +40,4 @@ https://www.twitch.com/magnus_jurdal
 https://www.vimeo.com/magnusjurdal
 https://www.linkedin.com/in/magnus-jurdal-858565288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 https://substack.com/@magnusjurdal?r=1vm2zu&utm_medium=ios&utm_source=profile
+Jag finns på Threads som @jurdalmagnus. Installera appen om du vill följa mina trådar och svar. https://www.threads.net/@jurdalmagnus
