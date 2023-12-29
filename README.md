@@ -42,4 +42,4 @@ https://www.linkedin.com/in/magnus-jurdal-858565288?utm_source=share&utm_campaig
 https://substack.com/@magnusjurdal?r=1vm2zu&utm_medium=ios&utm_source=profile
 Jag finns på Threads som @jurdalmagnus. Installera appen om du vill följa mina trådar och svar. https://www.threads.net/@jurdalmagnus
 https://meetup.com/magnusjurdal
-https://www.meetup.com/members/386735770
+https://www.meetup.com/386735770
