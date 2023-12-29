@@ -10,7 +10,6 @@ N:Jurdal;Magnus;;;
 FN:Magnus Jurdal
 TEL;type=CELL;type=VOICE;type=pref:46721686774
 END:VCARD
-
 https://open.spotify.com/user/31sarglkz4puo223sw7fpdxdztlu?si=VQzT8iaPTN21lWeCN6nJBg
 https://telegram.org/
 https://www.facebook.com/jurdalmagnus
@@ -38,3 +37,4 @@ https://youtube.com/@MagnusJurdal-wu8fv?feature=shared
 https://youtube.com/@magnusjurdal5713?feature=shared
 https://www.tumblr.com/magnusjurdal
 https://www.twitch.com/magnus_jurdal
+https://www.vimeo.com/magnusjurdal
