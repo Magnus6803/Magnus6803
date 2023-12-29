@@ -36,3 +36,4 @@ https://github.com/Magnus6803
 https://rutube.ru/profile/
 https://youtube.com/@MagnusJurdal-wu8fv?feature=shared
 https://youtube.com/@magnusjurdal5713?feature=shared
+https://www.tumblr.com/magnusjurdal
