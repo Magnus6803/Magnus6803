@@ -43,3 +43,4 @@ https://substack.com/@magnusjurdal?r=1vm2zu&utm_medium=ios&utm_source=profile
 Jag finns på Threads som @jurdalmagnus. Installera appen om du vill följa mina trådar och svar. https://www.threads.net/@jurdalmagnus
 https://meetup.com/magnusJurdal
 https://www.meetup.com/members/386735770
+https://superuser.com/users/1776134/magnus-jurdal?tab=topactivity
