@@ -50,3 +50,4 @@ https://play.google.com/console/u/0/developers/6781048353787211234/app-list
 https://secure7.store.apple.com/shop/account/home
 https://secure7.store.apple.com/se/shop/account/home
 https://www.icloud.com
+https://discussions.apple.com/profile/Magnusä_Jurdal/achievements
