@@ -48,3 +48,4 @@ https://stackexchange.com/users/23334631/magnus
 https://console.cloud.google.com/billing/0124BF-29BDD6-EEBB61/profile?organizationId=813440600312
 https://play.google.com/console/u/0/developers/6781048353787211234/app-list
 https://secure7.store.apple.com/shop/account/home
+https://secure7.store.apple.com/se/shop/account/home
