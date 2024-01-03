@@ -76,5 +76,6 @@ https://mjkwh.slack.com/team/U055PG1TBHV
 https://account.microsoft.com/profile/
 https://account.microsoft.com/?ref=settings&refd=account.microsoft.com
 https://secure.skype.com/portal/overview
+https://open.substack.com/pub/magnusjurdal/chat?r=1vm2zu&utm_medium=ios&utm_source=share
 
 
