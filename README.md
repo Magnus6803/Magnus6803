@@ -72,5 +72,6 @@ Let’s work together on Slack. Use this link to start a direct message with me:
 https://kotlinlang.slack.com/team/U03KA9LKMRQ
 https://wwww.slack.com/U03KA9LKMRQ
 Send to Slack <g0t2j9u3z9q6u8d0@mjkwh.slack.com>
+https://mjkwh.slack.com/team/U055PG1TBHV
 
 
