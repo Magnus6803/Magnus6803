@@ -78,5 +78,6 @@ https://account.microsoft.com/?ref=settings&refd=account.microsoft.com
 https://secure.skype.com/portal/overview
 https://open.substack.com/pub/magnusjurdal/chat?r=1vm2zu&utm_medium=ios&utm_source=share
 https://substack.com/@magnusjurdal?r=1vm2zu&utm_medium=ios&utm_source=edit-profile
+https://outlook.com/msgnud.jurdal@outlook.com
 
 
