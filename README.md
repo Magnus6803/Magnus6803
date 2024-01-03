@@ -52,3 +52,4 @@ https://secure7.store.apple.com/se/shop/account/home
 https://www.icloud.com
 https://discussions.apple.com/profile/Magnusä_Jurdal/achievements
 https://apkpure.com/u/24209376
+https://mastodon.social/@magnusjurdal
