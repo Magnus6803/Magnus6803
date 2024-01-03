@@ -67,6 +67,6 @@ https://discord.com/channels/1028616937107902514
 https://www.tiktok.com/@magnusjurdal?_t=8iizsY119Tl&_r=1
 https://myaccount.google.com/?utm_source=OGB&utm_medium=app
 https://music.youtube.com/channel/UC-IGaaIw-w7kTNTnHhFrBow
-https://slack.comMagnus Jurdal
+https://slack.com/magnusjutdal
 
 
