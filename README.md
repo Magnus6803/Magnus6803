@@ -65,5 +65,6 @@ https://join.skype.com/invite/OE08DbltgWIX
 https://discord.com/channels/@me/1028616937107902514
 https://discord.com/channels/1028616937107902514
 https://www.tiktok.com/@magnusjurdal?_t=8iizsY119Tl&_r=1
+https://myaccount.google.com/?utm_source=OGB&utm_medium=app
 
 
