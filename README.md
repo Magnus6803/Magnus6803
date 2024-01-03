@@ -70,5 +70,6 @@ https://music.youtube.com/channel/UC-IGaaIw-w7kTNTnHhFrBow
 https://slack.com/magnusjutdal
 Let’s work together on Slack. Use this link to start a direct message with me: https://join.slack.com/shareDM/zt-29pky54kn-Gt77DlASGceXsdkasDnL6Q
 https://kotlinlang.slack.com/team/U03KA9LKMRQ
+https://wwww.slack.com/U03KA9LKMRQ
 
 
