@@ -63,4 +63,6 @@ Magnus Jurdal vill chatta med dig på Skype. Det är gratis!
 https://join.skype.com/invite/OE08DbltgWIX
 1028616937107902514
 https://discord.com/channels/@me/1028616937107902514
+https://discord.com/channels/1028616937107902514
+
 
