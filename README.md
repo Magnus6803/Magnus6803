@@ -56,3 +56,4 @@ https://mastodon.social/@magnusjurdal
 https://community.cncf.io/u/mnprcv/
 Gå med i Magnus Jurdal Community i Microsoft Teams. Använd den här länken för att hämta den kostnadsfria appen och gå med i communityn: https://teams.live.com/l/community/
 https://discord.com/magnusjurdal#7869
+https://www.fandom.com/magnusjurdal
