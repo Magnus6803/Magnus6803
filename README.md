@@ -68,5 +68,6 @@ https://www.tiktok.com/@magnusjurdal?_t=8iizsY119Tl&_r=1
 https://myaccount.google.com/?utm_source=OGB&utm_medium=app
 https://music.youtube.com/channel/UC-IGaaIw-w7kTNTnHhFrBow
 https://slack.com/magnusjutdal
+Let’s work together on Slack. Use this link to start a direct message with me: https://join.slack.com/shareDM/zt-29pky54kn-Gt77DlASGceXsdkasDnL6Q
 
 
