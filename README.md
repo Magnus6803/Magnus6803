@@ -75,5 +75,6 @@ Send to Slack <g0t2j9u3z9q6u8d0@mjkwh.slack.com>
 https://mjkwh.slack.com/team/U055PG1TBHV
 https://account.microsoft.com/profile/
 https://account.microsoft.com/?ref=settings&refd=account.microsoft.com
+https://secure.skype.com/portal/overview
 
 
