@@ -53,3 +53,4 @@ https://www.icloud.com
 https://discussions.apple.com/profile/Magnusä_Jurdal/achievements
 https://apkpure.com/u/24209376
 https://mastodon.social/@magnusjurdal
+https://community.cncf.io/u/mnprcv/
