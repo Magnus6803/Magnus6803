@@ -58,3 +58,6 @@ G책 med i Magnus Jurdal Community i Microsoft Teams. Anv채nd den h채r l채nken f�
 https://discord.com/magnusjurdal#7869
 https://www.fandom.com/magnusjurdal
 https://community.fandom.com/wiki/User:Magnus_Jurdal
+Magnus Jurdal vill chatta med dig p책 Skype. Det 채r gratis!
+
+https://join.skype.com/invite/OE08DbltgWIX
