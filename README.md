@@ -1,4 +1,4 @@
-lMagnus Jurdal
+Magnus Jurdal
 mj@mjkwh.net
 Check out @Magnus Jurdal on Likee! 👇👇👇
 https://www.facebook.com/jurdalmagnus
@@ -84,5 +84,6 @@ https://accounts.firefox.com/settings?deviceId=ea00530bd8c3435291e0cd72c1f82f30&
 https://gitlab.com/mj61
 https://trello.com/u/magnusjurdal
 https://mjkwh.atlassian.net/jira/dashboards/10000
+https://m.alibaba.com/myalibaba.htm?templateName=wap2-my-alibaba&from=navbar#/
 
 
