@@ -83,5 +83,6 @@ https://auth.opera.com/account/edit-profile
 https://accounts.firefox.com/settings?deviceId=ea00530bd8c3435291e0cd72c1f82f30&flowBeginTime=1704299075291&flowId=660e3086cc60361e9fe0d37139e86627530ef108518a4e8164be17957281683a&broker=web&context=web&isSampledUser=true&service=none&uniqueUserId=08115c17-a208-4c5d-9b44-5d9c0f4c2314
 https://gitlab.com/mj61
 https://trello.com/u/magnusjurdal
+https://mjkwh.atlassian.net/jira/dashboards/10000
 
 
