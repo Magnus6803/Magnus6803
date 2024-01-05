@@ -85,5 +85,6 @@ https://gitlab.com/mj61
 https://trello.com/u/magnusjurdal
 https://mjkwh.atlassian.net/jira/dashboards/10000
 https://m.alibaba.com/myalibaba.htm?templateName=wap2-my-alibaba&from=navbar#/
+Vi kan samarbeta i Jira-appen! Gör mig sällskap genom att ladda ner den från App Store. 
 
 
