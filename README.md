@@ -88,4 +88,5 @@ https://m.alibaba.com/myalibaba.htm?templateName=wap2-my-alibaba&from=navbar#/
 https://www.telenor.se/mitt-telenor/nya-min-profil/
 https://www.telenor.se/mitt-telenor/nya-min-oversikt
 https://www.threads.net/@jurdalmagnus
+https://secure.smartrefill.se/webapps/payment-portal/?language=sv&transactionId=00cf7f5e5841477287d64d253718afdd&template=telenor&company=telenor&action=cardRegistration&paymentMethod=CARD&poll=true&callback=com.telenor.sweden.ladda-srcardregistration%3A
 
