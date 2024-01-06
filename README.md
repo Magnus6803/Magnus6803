@@ -87,4 +87,5 @@ https://mjkwh.atlassian.net/jira/dashboards/10000
 https://m.alibaba.com/myalibaba.htm?templateName=wap2-my-alibaba&from=navbar#/
 https://www.telenor.se/mitt-telenor/nya-min-profil/
 https://www.telenor.se/mitt-telenor/nya-min-oversikt
+https://www.threads.net/@jurdalmagnus
 
