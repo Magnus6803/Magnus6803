@@ -85,4 +85,5 @@ https://gitlab.com/mj61
 https://trello.com/u/magnusjurdal
 https://mjkwh.atlassian.net/jira/dashboards/10000
 https://m.alibaba.com/myalibaba.htm?templateName=wap2-my-alibaba&from=navbar#/
+https://www.telenor.se/mitt-telenor/nya-min-profil/
 
