@@ -90,3 +90,4 @@ https://www.telenor.se/mitt-telenor/nya-min-oversikt
 https://www.threads.net/@jurdalmagnus
 https://secure.smartrefill.se/webapps/payment-portal/?language=sv&transactionId=00cf7f5e5841477287d64d253718afdd&template=telenor&company=telenor&action=cardRegistration&paymentMethod=CARD&poll=true&callback=com.telenor.sweden.ladda-srcardregistration%3A
 https://telenor.se/handla/kontantkort/ladda-kontantkort/?ef_id=EAIaIQobChMIzKjjt8bIgwMVDAqiAx1DEgRREAAYASAAEgLz1_D_BwE:G:s&gad_source=1&gclid=EAIaIQobChMIzKjjt8bIgwMVDAqiAx1DEgRREAAYASAAEgLz1_D_BwE#/profile/edit
+https://codepen.io/Magnus-Jurdal
