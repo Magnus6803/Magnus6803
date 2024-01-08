@@ -94,3 +94,4 @@ https://codepen.io/Magnus-Jurdal
 https://rust-lang.zulipchat.com
 https://buf.build/magnusjurdsl
 https://buf.build/magnusjurdal
+https://buf.build/magnusjurdall2
