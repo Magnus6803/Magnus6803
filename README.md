@@ -96,3 +96,4 @@ https://buf.build/magnusjurdsl
 https://buf.build/magnusjurdal
 https://buf.build/magnusjurdall2
 https://wakelet.com/@MagnusJurdal55805
+https://music.amazon.com/profiles/5nkk2nkte57pccicoqzw3pwtmu?ref=dm_ff_amazonmusic.ios&ref=dm_sh_LozNV9v6msrE2BnMrnoKwKVlW
