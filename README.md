@@ -92,3 +92,4 @@ https://secure.smartrefill.se/webapps/payment-portal/?language=sv&transactionId=
 https://telenor.se/handla/kontantkort/ladda-kontantkort/?ef_id=EAIaIQobChMIzKjjt8bIgwMVDAqiAx1DEgRREAAYASAAEgLz1_D_BwE:G:s&gad_source=1&gclid=EAIaIQobChMIzKjjt8bIgwMVDAqiAx1DEgRREAAYASAAEgLz1_D_BwE#/profile/edit
 https://codepen.io/Magnus-Jurdal
 https://rust-lang.zulipchat.com
+https://buf.build/magnusjurdsl
