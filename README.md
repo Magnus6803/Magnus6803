@@ -95,3 +95,4 @@ https://rust-lang.zulipchat.com
 https://buf.build/magnusjurdsl
 https://buf.build/magnusjurdal
 https://buf.build/magnusjurdall2
+https://wakelet.com/@MagnusJurdal55805
