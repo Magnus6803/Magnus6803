@@ -114,3 +114,4 @@ https://profile.oracle.com/myprofile/account/secure/update-account.jspx?nexturl=
 https://myaccount.cloud.oracle.com/mycloud/faces/dashboard.jspx
 https://opencollective.com/flutter_callkit_incoming
 https://chromium.googlesource.com/apps/libapps/
+https://kiwiirc.com/nextclient/irc.libera.chat/#selenium
