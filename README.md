@@ -109,3 +109,4 @@ https://stackoverflow.com/users/17410510/magnus-jurdal
 https://mjkwh.atlassian.net/wiki/spaces/~627e20a3694943006f3644cc/pages/14581762/Magnus+Jurdal
 https://developers.google.com/profile/u/MagnusJurdal/dashboard
 https://developers.google.com/profile/u/MagnusJurdal
+https://www.xing.com/profile/Magnus_Jurdal
