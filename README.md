@@ -104,3 +104,4 @@ http://wechat.com/dl/BinOJQ7%2FyLE%3D and add me via WeChat ID: wxid_y4bk686cw
 https://twitcasting.tv/g:112400830040109419015/account
 Hey! Here is a link to download the Jetpack app. I'm really enjoying it and thought you might too.
 https://developer.apple.com/account
+https://stackoverflow.com/users/17410510/magnus-jurdal
