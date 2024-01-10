@@ -106,3 +106,4 @@ https://twitcasting.tv/g:112400830040109419015/account
 Hey! Here is a link to download the Jetpack app. I'm really enjoying it and thought you might too.
 https://developer.apple.com/account
 https://stackoverflow.com/users/17410510/magnus-jurdal
+https://mjkwh.atlassian.net/wiki/spaces/~627e20a3694943006f3644cc/pages/14581762/Magnus+Jurdal
