@@ -120,3 +120,4 @@ https://hub.jetbrains.com/users/f862df02-e994-49d1-85bf-a5228adbc42f
 https://youtrack.jetbrains.com/issues?u=&reloaded=true
 https://account.jetbrains.com/profile-details
 https://plugins.jetbrains.com/author/me
+https://community.transloadit.com/u/magnus6803/preferences/account
