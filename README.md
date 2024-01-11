@@ -117,3 +117,4 @@ https://chromium.googlesource.com/apps/libapps/
 https://kiwiirc.com/nextclient/irc.libera.chat/#selenium
 https://hub.jetbrains.com/auth/login?response_type=token&client_id=0-0-0-0-0&redirect_uri=https:%2F%2Fhub.jetbrains.com%2F&scope=YouTrack%20Upsource%20VCS%2520Hosting%20TeamCity%20Hub%200-0-0-0-0&state=d78f2a78-d50d-4f70-97b3-4aec3ec1b351
 https://hub.jetbrains.com/users/f862df02-e994-49d1-85bf-a5228adbc42f
+https://youtrack.jetbrains.com/issues?u=&reloaded=true
