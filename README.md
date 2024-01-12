@@ -1,6 +1,7 @@
 Magnus Jurdal
 mj@mjkwh.net
 magnudjurdal@gmail.com
+msgnud.jurdal@outlook.com
 Check out @Magnus Jurdal on Likee! 👇👇👇
 https://www.facebook.com/jurdalmagnus
 +46721686774
