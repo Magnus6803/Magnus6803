@@ -127,3 +127,4 @@ Check out Trailhead and start learning new skills today. #TrailheadGO
 https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26state%3DhashArgsFromTB_eu-north-1_9e8e80cdae2ce7ea&client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&forceMobileApp=0&code_challenge=vKpAppcKQyZPKuGCNtM5CvjaepcWkQyX_Vfs7e3EAug&code_challenge_method=SHA-256
 https://us-east-1.console.aws.amazon.com/billing/home?region=us-east-1#/account
 https://forum.gitlab.com/u/magnus6803/preferences/account
+https://forum.gitlab.com/categories
