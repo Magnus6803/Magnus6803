@@ -133,3 +133,5 @@ https://app.gitbook.com/o/7r695LmyOpyqfZPkfK87/s/KPILO8VGzzL9QzVL2HWR/
 https://us21.admin.mailchimp.com/account/profile/
 https://www.brevidmigg.com
 https://support.cloud.google.com/portal/system-status?product=GCP
+Se vad jag har lagt upp på Google Maps
+Nivå 4 Local Guide
