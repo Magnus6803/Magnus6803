@@ -128,3 +128,4 @@ https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fconsole.aws.amaz
 https://us-east-1.console.aws.amazon.com/billing/home?region=us-east-1#/account
 https://forum.gitlab.com/u/magnus6803/preferences/account
 https://forum.gitlab.com/categories
+https://app.gitbook.com/o/7r695LmyOpyqfZPkfK87/s/KPILO8VGzzL9QzVL2HWR/
