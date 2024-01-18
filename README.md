@@ -149,3 +149,4 @@ https://medium.com/me/stats
 https://www.discogs.com/user/MagnusJurdal
 https://plugins.gradle.org/u/Magnus6803
 https://gitpod.io/user/account
+https://gitpod.io/settings
