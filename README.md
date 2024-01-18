@@ -146,3 +146,4 @@ https://flathub.org/my-flathub
 https://bugs.chromium.org/u/mj%40mjkwh.net/
 https://dev.to/settings/response-templates?id=2211
 https://medium.com/me/stats
+https://www.discogs.com/user/MagnusJurdal
