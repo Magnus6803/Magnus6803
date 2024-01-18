@@ -150,3 +150,4 @@ https://www.discogs.com/user/MagnusJurdal
 https://plugins.gradle.org/u/Magnus6803
 https://gitpod.io/user/account
 https://gitpod.io/settings
+https://discourse.llvm.org/u/magnus6803/summary
