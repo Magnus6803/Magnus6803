@@ -158,3 +158,4 @@ https://discourse.llvm.org/u/magnus6803/summary
 https://opencollective.com/google-ospo
 https://extensions.gnome.org/accounts/profile/MagnusJurdal
 https://internals.rust-lang.org/u/magnus6803/summary
+https://id.cisco.com/ui/v1.0/profile-ui/personal
