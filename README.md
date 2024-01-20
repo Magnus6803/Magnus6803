@@ -162,3 +162,4 @@ https://id.cisco.com/ui/v1.0/profile-ui/personal
 https://rpfa.cloudapps.cisco.com/rpfa/profile/edit_entitlement.do?Tab=3
 https://userhub-bg.webex.com/webappng/hub/settings/home
 https://www.crowdcast.io/joined-events
+https://patreon.com/MagnusJurdal?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link
