@@ -3,6 +3,7 @@ mj@mjkwh.net
 magnudjurdal@gmail.com
 msgnud.jurdal@outlook.com
 35 299309 176104 9
+8A:05:4B:0C:50:20
 Check out @Magnus Jurdal on Likee! 👇👇👇
 https://www.facebook.com/jurdalmagnus
 +46721686774
