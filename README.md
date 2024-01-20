@@ -6,6 +6,7 @@ msgnud.jurdal@outlook.com
 35 299309 176104 9
 8A:05:4B:0C:50:20
 Check out @Magnus Jurdal on Likee! 👇👇👇
+https://x.com/jurdal_magnus3
 https://www.facebook.com/jurdalmagnus
 +46721686774
 BEGIN:VCARD
