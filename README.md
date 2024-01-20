@@ -152,3 +152,4 @@ https://gitpod.io/user/account
 https://gitpod.io/settings
 https://discourse.llvm.org/u/magnus6803/summary
 https://opencollective.com/google-ospo
+https://extensions.gnome.org/accounts/profile/MagnusJurdal
