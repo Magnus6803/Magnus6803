@@ -9,6 +9,9 @@ Check out @Magnus Jurdal on Likee! 👇👇👇
 https://x.com/jurdal_magnus2
 https://www.facebook.com/jurdalmagnus
 +46721686774
+Johan Printz väg 18B
+121 46 Johanneshov
+Sweden,SE,Sverige
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 16.7.2//EN
