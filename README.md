@@ -226,3 +226,4 @@ https://www.crowdcast.io/joined-events
 https://patreon.com/MagnusJurdal?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link
 https://app.slack.com/client/T2NDH1D9D/C2ND76PAA
 https://community.cloudflare.com/u/mj13/preferences/account
+https://community.cloudflare.com/t/greetings/547028?u=mj13
