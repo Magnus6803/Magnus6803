@@ -3,6 +3,7 @@ Magnus Jurdal
 mj@mjkwh.net
 magnudjurdal@gmail.com
 msgnud.jurdal@outlook.com
+31sarglkz4puo223sw7fpdxdztlu
 35 299309 176104 9
 8A:05:4B:0C:50:20
 IPhone 8
