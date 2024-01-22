@@ -5,6 +5,62 @@ magnudjurdal@gmail.com
 msgnud.jurdal@outlook.com
 35 299309 176104 9
 8A:05:4B:0C:50:20
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : MagnusJurdalDator
+   Primary Dns Suffix  . . . . . . . :
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : home
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : 98-FA-9B-27-EF-E2
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Anslutning till lokalt nätverk* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : DC-FB-48-49-C3-3A
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Anslutning till lokalt nätverk* 11:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #3
+   Physical Address. . . . . . . . . : DE-FB-48-49-C3-39
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : home
+   Description . . . . . . . . . . . : Intel(R) Wireless-AC 9462
+   Physical Address. . . . . . . . . : 8E-D3-49-EF-9A-CB
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::7ee9:6f:3971:a768%20(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.1.115(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : den 22 januari 2024 10:59:35
+   Lease Expires . . . . . . . . . . : den 23 januari 2024 10:59:42
+   Default Gateway . . . . . . . . . : 192.168.10.1
+                                       192.168.1.1
+   DHCP Server . . . . . . . . . . . : 192.168.1.1
+   DHCPv6 IAID . . . . . . . . . . . : 344904521
+   DHCPv6 Client DUID. . . . . . . . : 00-03-00-01-8E-D3-49-EF-9A-CB
+   DNS Servers . . . . . . . . . . . : 192.168.1.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
 Check out @Magnus Jurdal on Likee! 👇👇👇
 https://x.com/jurdal_magnus2
 https://www.facebook.com/jurdalmagnus
