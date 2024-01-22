@@ -233,3 +233,4 @@ https://community.cloudflare.com/t/greetings/547028?u=mj13
 https://community.c2cglobal.com/members/magnus-jurdal-25168
 https://www.jk.se
 https://www.riksdagen.se/sv/sa-fungerar-riksdagen/utskotten-och-eu-namnden/konstitutionsutskottet/
+      (https://www.regeringen.se
