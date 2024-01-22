@@ -230,3 +230,4 @@ https://app.slack.com/client/T2NDH1D9D/C2ND76PAA
 https://community.cloudflare.com/u/mj13/preferences/account
 https://community.cloudflare.com/t/greetings/547028?u=mj13
 https://community.c2cglobal.com/members/magnus-jurdal-25168
+https://www.jk.se
