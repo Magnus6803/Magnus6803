@@ -6,6 +6,7 @@ msgnud.jurdal@outlook.com
 31sarglkz4puo223sw7fpdxdztlu
 35 299309 176104 9
 8A:05:4B:
+52:F4:02:3E:AF:2E
 C8PW3JGCJC68
 352993091761049
 https://mtq.microsoft.com/Games/b9782d73-7fa2-4728-bf8f-c11e95b9e8e8/Discard
