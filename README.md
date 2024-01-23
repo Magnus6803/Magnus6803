@@ -7,6 +7,7 @@ msgnud.jurdal@outlook.com
 35 299309 176104 9
 8A:05:4B:
 C8PW3JGCJC68
+35 299309 176104 9
 https://mtq.microsoft.com/Games/b9782d73-7fa2-4728-bf8f-c11e95b9e8e8/Discard
 Windows IP Configuration
 
