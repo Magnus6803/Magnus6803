@@ -233,3 +233,4 @@ https://community.c2cglobal.com/members/magnus-jurdal-25168
 https://community.jitsi.org/u/magnus6803/preferences/account
 https://icq.com/desktop/en?#mac
 https://id.mail.ru/profile?utm_source=gmailer_mkt&utm_medium=email&utm_campaign=welcome_email_1&utm_term=avatar
+https://appcenter.ms/settings
