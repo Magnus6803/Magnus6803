@@ -231,3 +231,4 @@ https://community.cloudflare.com/u/mj13/preferences/account
 https://community.cloudflare.com/t/greetings/547028?u=mj13
 https://community.c2cglobal.com/members/magnus-jurdal-25168
 https://community.jitsi.org/u/magnus6803/preferences/account
+https://icq.com/desktop/en?#mac
