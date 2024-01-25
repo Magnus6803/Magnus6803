@@ -235,3 +235,4 @@ https://icq.com/desktop/en?#mac
 https://id.mail.ru/profile?utm_source=gmailer_mkt&utm_medium=email&utm_campaign=welcome_email_1&utm_term=avatar
 https://appcenter.ms/settings
 https://www.priceless.com/m/profile/dashboard/preferencecenter
+https://www.mastercard.se/sv-se.html
