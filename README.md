@@ -241,3 +241,4 @@ https://discuss.jsonapi.org/u/magnusjurdal/preferences/account
 https://status.flathub.org/
 https://discourse.flathub.org/u/magnusjurdal/preferences/account
 https://login.launchpad.net/Rbeh3Fjb7xKnCKOZ
+https://forum.snapcraft.io/u/magnusjurdal/preferences/account
