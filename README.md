@@ -248,3 +248,4 @@ https://es.discourse.group/u/magnus6803/preferences/account
 https://cwiki.apache.org/confluence/users/viewmyprofile.action
 https://artifacthub.io/control-panel/settings
 https://artifacthub.io/control-panel/settings
+https://community.c2cglobal.com/members/magnus-jurdal-25168
