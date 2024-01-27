@@ -246,3 +246,4 @@ https://forum.snapcraft.io/u/magnusjurdal/preferences/account
 https://1password.community/profile/discussions/MagnusJurdal
 https://es.discourse.group/u/magnus6803/preferences/account
 https://cwiki.apache.org/confluence/users/viewmyprofile.action
+https://artifacthub.io/control-panel/settings
