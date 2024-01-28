@@ -256,3 +256,4 @@ https://discuss.kubernetes.io/t/greetings/23979?u=magnus_jurdal
 https://discuss.kotlinlang.org/u/magnus_jurdal/preferences/account
 https://gitlab.eclipse.org/magnusjurdal
 https://gitlab.eclipse.org/-/profile
+https://forum.qt.io/user/magnus-jurdal/edit
