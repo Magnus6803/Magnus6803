@@ -262,3 +262,4 @@ Hi, add my Zangi private number for confidential correspondence and calls.
 1067280422
 
 https://services.zangi.com/dl/conversation/1067280422
+https://community.crowdin.com/u/magnusjurdal/preferences/account
