@@ -243,6 +243,7 @@ https://status.flathub.org/
 https://discourse.flathub.org/u/magnusjurdal/preferences/account
 https://login.launchpad.net/Rbeh3Fjb7xKnCKOZ
 https://forum.snapcraft.io/u/magnusjurdal/preferences/account
+https://developer.chrome.com/docs/extensions/get-started
 https://1password.community/profile/discussions/MagnusJurdal
 https://es.discourse.group/u/magnus6803/preferences/account
 https://cwiki.apache.org/confluence/users/viewmyprofile.action
