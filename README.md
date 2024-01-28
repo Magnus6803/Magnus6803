@@ -257,3 +257,8 @@ https://discuss.kotlinlang.org/u/magnus_jurdal/preferences/account
 https://gitlab.eclipse.org/magnusjurdal
 https://gitlab.eclipse.org/-/profile
 https://forum.qt.io/user/magnus-jurdal/edit
+Hi, add my Zangi private number for confidential correspondence and calls.
+
+1067280422
+
+https://services.zangi.com/dl/conversation/1067280422
