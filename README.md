@@ -251,3 +251,4 @@ https://artifacthub.io/control-panel/settings
 https://artifacthub.io/control-panel/settings
 https://community.c2cglobal.com/members/magnus-jurdal-25168
 https://profile.id.smartbear.com/profile
+https://discuss.kubernetes.io/u/magnus_jurdal/preferences/account
