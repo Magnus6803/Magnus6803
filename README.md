@@ -264,3 +264,4 @@ Hi, add my Zangi private number for confidential correspondence and calls.
 https://services.zangi.com/dl/conversation/1067280422
 https://community.crowdin.com/u/magnusjurdal/preferences/account
 https://community.crowdin.com/t/greetings/6552?u=magnusjurdal
+https://app.diversiboard.com/p/diversiboard/join/?sgj=m
