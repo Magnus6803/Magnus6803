@@ -253,3 +253,4 @@ https://community.c2cglobal.com/members/magnus-jurdal-25168
 https://profile.id.smartbear.com/profile
 https://discuss.kubernetes.io/u/magnus_jurdal/preferences/account
 https://discuss.kubernetes.io/t/greetings/23979?u=magnus_jurdal
+https://discuss.kotlinlang.org/u/magnus_jurdal/preferences/account
