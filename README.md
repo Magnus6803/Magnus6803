@@ -268,3 +268,4 @@ https://app.diversiboard.com/p/diversiboard/join/?sgj=m
 https://glitch.com/@mj51004
 https://support.glitch.com/t/greetings/61830?u=magnusjurdal
 https://developer.android.com/reference/java/lang/Object?hl=en#Object()
+https://nav.fosdem.org/account/
