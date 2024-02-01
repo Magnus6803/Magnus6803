@@ -280,3 +280,4 @@ https://discuss.gradle.org/t/greetings/46263?u=magnus6803
 https://community.transloadit.com/u/magnus6803/preferences/profile
 https://www.strikingly.com/s/users/edit_profile
 https://members.opensource.org/join/?civiwp=CiviCRM&q=civicrm%2Fcontribute%2Ftransact&_qf_Confirm_display=true&qfKey=CRMContributeControllerContributionp5mitvfuaisg4osgw8sk4gg4gs8g44s0c4g4o0kww4g0w8kcc_9140
+https://app.pulumi.com/Magnus6803/account/settings
