@@ -283,3 +283,4 @@ https://members.opensource.org/join/?civiwp=CiviCRM&q=civicrm%2Fcontribute%2Ftra
 https://app.pulumi.com/Magnus6803/account/settings
 https://discourse.gohugo.io/u/magnus6803/preferences/account
 https://discourse.gohugo.io/u/magnus6803/preferences/profile
+https://buf.build/magnusjurdall2
