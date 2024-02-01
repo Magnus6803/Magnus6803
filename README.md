@@ -275,3 +275,4 @@ https://eu-central-1-1.aws.cloud2.influxdata.com/orgs/36fde063eb92b35b/accounts/
 https://cwiki.apache.org/confluence/users/viewmyprofile.action
 https://www.w3.org/users/152747/edit/
 https://www.w3.org/users/152747/
+https://discuss.gradle.org/u/magnus6803/preferences/profile
