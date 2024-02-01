@@ -269,3 +269,4 @@ https://glitch.com/@mj51004
 https://support.glitch.com/t/greetings/61830?u=magnusjurdal
 https://developer.android.com/reference/java/lang/Object?hl=en#Object()
 https://nav.fosdem.org/account/
+https://dzen.ru/id/6561edd5bfa8910d18f029dc
