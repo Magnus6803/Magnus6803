@@ -287,3 +287,4 @@ https://buf.build/magnusjurdall2
 https://bufbuild.zendesk.com/hc/en-us/profiles/23007103415949
 https://stars.github.com/nominate/?browser_session_id=683b5b5e7c17e31ea8f12f52f521519de451991406c60139d5b8ff413d64f20c&code&state
 https://opensource.google/documentation/reference/thirdparty/licenses?authuser=2
+https://openprofile.dev
