@@ -292,3 +292,4 @@ https://dash.cloudflare.com/profile
 https://team.atlassian.com/people/627e20a3694943006f3644cc
 https://community.cloudflare.com/u/mj13/preferences/account
 https://app.vsaex.visualstudio.com/me?mkt=en-US
+https://users.rust-lang.org/u/magnus6803/preferences/profile
