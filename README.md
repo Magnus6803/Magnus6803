@@ -295,3 +295,4 @@ https://app.vsaex.visualstudio.com/me?mkt=en-US
 https://users.rust-lang.org/u/magnus6803/preferences/profile
 https://discuss.hashicorp.com/u/magnus6803/preferences/account
 https://expo.dev/@magnusjurdal
+https://community.grafana.com/u/magnusjurdal/preferences/account
