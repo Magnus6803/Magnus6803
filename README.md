@@ -303,3 +303,4 @@ https://eu-central-1-1.aws.cloud2.influxdata.com/orgs/36fde063eb92b35b/user/prof
 https://keycloak.discourse.group/u/magnus6803/preferences/profile
 https://tally.so/settings/account
 https://community.sonatype.com/u/mj1/preferences/profile
+https://forge.puppet.com/settings/profile
