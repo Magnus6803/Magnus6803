@@ -301,3 +301,4 @@ https://manage.auth0.com/dashboard/eu/dev-iq7hkl7q/users/YXV0aDAlN0M2NDZhMDI2MjA
 https://forum.camunda.io/u/magnus6803/preferences/profile
 https://eu-central-1-1.aws.cloud2.influxdata.com/orgs/36fde063eb92b35b/user/profile
 https://keycloak.discourse.group/u/magnus6803/preferences/profile
+https://tally.so/settings/account
