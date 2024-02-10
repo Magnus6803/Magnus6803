@@ -308,3 +308,4 @@ https://forge.puppet.com/settings/profile
 https://www.last.fm/user/MagnusJurdal2
 https://community.spotify.com/t5/user/myprofilepage/tab/personal-profile:private-notes-consent
 https://www.behance.net/magnusjurdal1
+https://www.zhihu.com/people/qj5iuh
