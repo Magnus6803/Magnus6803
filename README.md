@@ -316,3 +316,4 @@ https://mitt.lowell.se/User
 https://accounts.eclipse.org/users/magnusjurdal
 https://webflow.com/@magnusjurdal/edit/general
 https://accounts.skilljar.com/accounts/profile/13y7bkh9q42zr?d=13y7bkh9q42zr&next=%2F
+https://account.lenovo.com/se/sv/account/myprofile.html
