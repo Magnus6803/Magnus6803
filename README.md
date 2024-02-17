@@ -320,3 +320,4 @@ https://account.lenovo.com/se/sv/account/myprofile.html
 https://account.lenovo.com/se/sv/myprofile/login?returnurl=https%3A%2F%2Fofp-account-web.docker-ofp-prd.lefile.cn%2Fse%2Fsv%2Fmyprofile
 https://malibubronze.co/account
 https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1169036#profile
+https://www.powershellgallery.com/profiles/MagnusJurdal
