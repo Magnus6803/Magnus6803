@@ -323,3 +323,4 @@ https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1169036#prof
 https://www.powershellgallery.com/profiles/MagnusJurdal
 https://community.letsencrypt.org/u/magnusjurdal/preferences/profile
 wxid_y4bk686cwhod12
+https://www.spotify.com/se/account/profile/
