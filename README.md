@@ -321,3 +321,4 @@ https://account.lenovo.com/se/sv/myprofile/login?returnurl=https%3A%2F%2Fofp-acc
 https://malibubronze.co/account
 https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1169036#profile
 https://www.powershellgallery.com/profiles/MagnusJurdal
+https://community.letsencrypt.org/u/magnusjurdal/preferences/profile
