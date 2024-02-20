@@ -1,4 +1,4 @@
-Magnus Jurdal
+#Magnus Jurdal
 680304
 5374473005474352
 mj@mjkwh.net
@@ -318,6 +318,7 @@ https://webflow.com/@magnusjurdal/edit/general
 https://accounts.skilljar.com/accounts/profile/13y7bkh9q42zr?d=13y7bkh9q42zr&next=%2F
 https://account.lenovo.com/se/sv/account/myprofile.html
 https://account.lenovo.com/se/sv/myprofile/login?returnurl=https%3A%2F%2Fofp-account-web.docker-ofp-prd.lefile.cn%2Fse%2Fsv%2Fmyprofile
+https://codeberg.org/MagnusJurdal
 https://malibubronze.co/account
 https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1169036#profile
 https://www.powershellgallery.com/profiles/MagnusJurdal
