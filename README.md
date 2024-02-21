@@ -336,3 +336,4 @@ https://trakt.tv/users/magnusjurdal
 https://account.adobe.com/profile
 https://community.adobe.com/t5/user/viewprofilepage/user-id/35596929
 https://bsky.app/profile/magnusjurdal.bsky.social
+https://obsproject.com/forum/account/account-details
