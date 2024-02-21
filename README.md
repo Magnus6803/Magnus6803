@@ -1,4 +1,4 @@
-#Magnus Jurdal
+Magnus Jurdal
 680304
 5374473005474352
 mj@mjkwh.net
@@ -326,3 +326,4 @@ https://community.letsencrypt.org/u/magnusjurdal/preferences/profile
 wxid_y4bk686cwhod12
 https://www.spotify.com/se/account/profile/
 https://www.zhihu.com/org/signup
+https://users.rust-lang.org/u/magnus6803/preferences/profile
