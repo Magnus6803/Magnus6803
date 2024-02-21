@@ -333,3 +333,4 @@ https://app.netlify.com/user/settings
 https://hpanel.hostinger.com/profile/personal-information
 https://www.classy.org/profile/edit-profile
 https://trakt.tv/users/magnusjurdal
+https://account.adobe.com/profile
