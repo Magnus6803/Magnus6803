@@ -331,3 +331,4 @@ https://www.zhihu.com/org/signup
 https://users.rust-lang.org/u/magnus6803/preferences/profile
 https://app.netlify.com/user/settings
 https://hpanel.hostinger.com/profile/personal-information
+https://www.classy.org/profile/edit-profile
