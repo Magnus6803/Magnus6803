@@ -343,3 +343,4 @@ https://accounts.adafruit.com/users/confirm-password
 https://discourse.llvm.org/u/magnus6803/preferences/account
 https://artifacthub.io/control-panel/settings
 https://artifacthub.io/control-panel/settings
+https://account.squarespace.com/settings/language
