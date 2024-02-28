@@ -1,7 +1,7 @@
 Magnus Jurdal
 6803040051
 Batteri
-inställningar
+Inställningar
 5374473005474352
 mj@mjkwh.net
 magnudjurdal@gmail.com
