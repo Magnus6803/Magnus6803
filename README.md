@@ -1,5 +1,6 @@
 Magnus Jurdal
-680304
+6803040051
+Batteri
 5374473005474352
 mj@mjkwh.net
 magnudjurdal@gmail.com
