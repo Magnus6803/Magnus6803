@@ -353,3 +353,4 @@ https://account.squarespace.com/settings/language
 https://dzen.ru/id/6561edd5bfa8910d18f029dc
 https://trello.com/u/magnusjurdal
 https://community.openai.com/u/mj7/summary
+https://wandb.ai/magnusjurdal
