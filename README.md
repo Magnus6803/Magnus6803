@@ -356,3 +356,4 @@ https://community.openai.com/u/mj7/summary
 https://wandb.ai/magnusjurdal
 https://pullpo.io/app/profile
 https://forum.camunda.io/u/magnus6803/preferences/account
+https://community.camunda.com/u/mgsnkn/#/about
