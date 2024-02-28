@@ -4,6 +4,7 @@ Batteri
 Inställningar
 Siri
 Assistenten
+instruktionsbok
 5374473005474352
 mj@mjkwh.net
 magnudjurdal@gmail.com
@@ -349,3 +350,4 @@ https://artifacthub.io/control-panel/settings
 https://artifacthub.io/control-panel/settings
 https://account.squarespace.com/settings/language
 https://dzen.ru/id/6561edd5bfa8910d18f029dc
+https://trello.com/u/magnusjurdal
