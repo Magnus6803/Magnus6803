@@ -4,7 +4,7 @@ Batteri
 Inställningar
 Siri
 Assistenten
-irc
+irq
 instruktionsbok
 5374473005474352
 mj@mjkwh.net
