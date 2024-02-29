@@ -362,3 +362,4 @@ https://elixirforum.com/u/magnus6803/preferences/account
 https://secure.logmein.com/central/Central.aspx
 https://profile.logmeininc.com/personal-info#
 https://playacademy.exceedlms.com/profiles/magnusjurdal2226faab
+https://developer.apple.com/account
