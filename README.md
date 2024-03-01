@@ -365,4 +365,5 @@ https://playacademy.exceedlms.com/profiles/magnusjurdal2226faab
 https://developer.apple.com/account
 https://ankiweb.net/account/settings
 https://forums.swift.org/u/magnus6803/preferences/profile
+https://access.redhat.com/account/56077472/profile
 https://developer.apple.com/forums/profile/preferences?avatar=3115&APP_STORE_URL=&LOCATION=&LAST_LOGIN=true&MEMBER_SINCE=true&pushNotifyNewActivityOnMyContent=true&pushNotifyNewActivityOnWatchedThread=true&pushNotifyMentioned=true&notifyNewActivityOnMyContent=true&notifyNewActivityOnWatchedThread=true&notifySolved=true&notifyRecommended=true&notifyMentioned=true
