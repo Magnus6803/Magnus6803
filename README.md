@@ -18,63 +18,46 @@ C8PW3JGCJC68
 352993091761049
 https://mtq.microsoft.com/Games/b9782d73-7fa2-4728-bf8f-c11e95b9e8e8/Discard
 Windows IP Configuration
-
-   Host Name . . . . . . . . . . . . : MagnusJurdalDator
-   Primary Dns Suffix  . . . . . . . :
-   Node Type . . . . . . . . . . . . : Hybrid
-   IP Routing Enabled. . . . . . . . : No
-   WINS Proxy Enabled. . . . . . . . : No
-   DNS Suffix Search List. . . . . . : home
-
+Host Name . . . . . . . . . . . . : MagnusJurdalDator
+Primary Dns Suffix  . . . . . . . :
+Node Type . . . . . . . . . . . . : Hybrid
+IP Routing Enabled. . . . . . . . : No
+WINS Proxy Enabled. . . . . . . . : No
+DNS Suffix Search List. . . . . . : home
 Ethernet adapter Ethernet:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . :
-   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
-   Physical Address. . . . . . . . . : 98-FA-9B-27-EF-E2
-   DHCP Enabled. . . . . . . . . . . : Yes
-   Autoconfiguration Enabled . . . . : Yes
-
+Media State . . . . . . . . . . . : Media disconnected
+Connection-specific DNS Suffix  . :
+Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+Physical Address. . . . . . . . . : 98-FA-9B-27-EF-E2
+DHCP Enabled. . . . . . . . . . . : Yes
+Autoconfiguration Enabled . . . . : Yes
 Wireless LAN adapter Anslutning till lokalt nätverk* 1:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . :
-   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
-   Physical Address. . . . . . . . . : DC-FB-48-49-C3-3A
-   DHCP Enabled. . . . . . . . . . . : Yes
-   Autoconfiguration Enabled . . . . : Yes
-
+Media State . . . . . . . . . . . : Media disconnected
+Connection-specific DNS Suffix  . :
+Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+Physical Address. . . . . . . . . : DC-FB-48-49-C3-3A
+DHCP Enabled. . . . . . . . . . . : Yes
+Autoconfiguration Enabled . . . . : Yes
 Wireless LAN adapter Anslutning till lokalt nätverk* 11:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . :
-   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #3
-   Physical Address. . . . . . . . . : DE-FB-48-49-C3-39
-   DHCP Enabled. . . . . . . . . . . : No
-   Autoconfiguration Enabled . . . . : Yes
-
+Media State . . . . . . . . . . . : Media disconnected
+Connection-specific DNS Suffix  . :
+Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #3
+Physical Address. . . . . . . . . : DE-FB-48-49-C3-39
+DHCP Enabled. . . . . . . . . . . : No
+Autoconfiguration Enabled . . . . : Yes
 Wireless LAN adapter Wi-Fi:
-
-   Connection-specific DNS Suffix  . : home
-   Description . . . . . . . . . . . : Intel(R) Wireless-AC 9462
-   Physical Address. . . . . . . . . : 8E-D3-49-EF-9A-CB
-   DHCP Enabled. . . . . . . . . . . : Yes
-   Autoconfiguration Enabled . . . . : Yes
-   Link-local IPv6 Address . . . . . : fe80::7ee9:6f:3971:a768%20(Preferred)
-   IPv4 Address. . . . . . . . . . . : 192.168.1.115(Preferred)
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Lease Obtained. . . . . . . . . . : den 22 januari 2024 10:59:35
-   Lease Expires . . . . . . . . . . : den 23 januari 2024 10:59:42
-   Default Gateway . . . . . . . . . : 192.168.10.1
-                                       192.168.1.1
-   DHCP Server . . . . . . . . . . . : 192.168.1.1
-   DHCPv6 IAID . . . . . . . . . . . : 344904521
-   DHCPv6 Client DUID. . . . . . . . : 00-03-00-01-8E-D3-49-EF-9A-CB
-   DNS Servers . . . . . . . . . . . : 192.168.1.1
-   NetBIOS over Tcpip. . . . . . . . : Enabled
-Check out @Magnus Jurdal on Likee! 👇👇👇
-https://x.com/jurdal_magnus2
-https://www.facebook.com/jurdalmagnus
+Connection-specific DNS Suffix  . : home
+Description . . . . . . . . . . . : Intel(R) Wireless-AC 9462
+Physical Address. . . . . . . . . : 8E-D3-49-EF-9A-CB
+DHCP Enabled. . . . . . . . . . . : Yes
+Autoconfiguration Enabled . . . . : Yes
+Link-local IPv6 Address . . . . . : fe80::7ee9:6f:3971:a768%20(Preferred)
+IPv4 Address. . . . . . . . . . . : 192.168.1.115(Preferred)
+Subnet Mask . . . . . . . . . . . : 255.255.255.0
+Lease Obtained. . . . . . . . . . : den 22 januari 2024 10:59:35
+Lease Expires . . . . . . . . . . : den 23 januari 2024 10:59:42
+Default Gateway . . . . . . . . . : 192.168.10.1
+                                       192.168.1.1DHCP Server . . . . . . . . . . . : 192.168.1.1DHCPv6 IAID . . . . . . . . . . . : 344904521DHCPv6 Client DUID. . . . . . . . : 00-03-00-01-8E-D3-49-EF-9A-CBDNS Servers . . . . . . . . . . . : 192.168.1.1NetBIOS over Tcpip. . . . . . . . : EnabledCheck out @Magnus Jurdal on Likee! 👇👇👇https://x.com/jurdal_magnus2https://www.facebook.com/jurdalmagnus
 +46721686774
 Johan Printz väg 18B
 121 46 Johanneshov
@@ -368,3 +351,4 @@ https://forums.swift.org/u/magnus6803/preferences/profile
 https://access.redhat.com/account/56077472/profile
 https://developer.apple.com/forums/profile/preferences?avatar=3115&APP_STORE_URL=&LOCATION=&LAST_LOGIN=true&MEMBER_SINCE=true&pushNotifyNewActivityOnMyContent=true&pushNotifyNewActivityOnWatchedThread=true&pushNotifyMentioned=true&notifyNewActivityOnMyContent=true&notifyNewActivityOnWatchedThread=true&notifySolved=true&notifyRecommended=true&notifyMentioned=true
 https://internals.rust-lang.org/u/magnus6803/preferences/profile
+https://crates.io/settings/profile
