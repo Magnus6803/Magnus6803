@@ -353,3 +353,4 @@ https://developer.apple.com/forums/profile/preferences?avatar=3115&APP_STORE_URL
 https://internals.rust-lang.org/u/magnus6803/preferences/profile
 https://crates.io/settings/profile
 https://partiful.com/u/aXu4PutwGseoX2rkXlyeIJNdysD2
+https://forum.solana.com/u/magnusjurdal/preferences/profile
