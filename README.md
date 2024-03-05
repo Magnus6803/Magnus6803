@@ -357,3 +357,4 @@ https://forum.solana.com/u/magnusjurdal/preferences/profile
 https://buildkite.com/user/settings
 https://community.lifx.com/u/magnusjurdal/preferences/profile
 https://admin.phacility.com/p/magnusjurdal/
+https://travis-ci.community/u/magnus6803/preferences/account
