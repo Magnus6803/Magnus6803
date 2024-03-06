@@ -361,3 +361,4 @@ https://travis-ci.community/u/magnus6803/preferences/account
 https://www.nuget.org/profiles/MagnusJurdal
 https://www.gatsbyjs.com/dashboard/account
 https://learn.udacity.com/settings/personal-info
+https://hashnode.com/@MagnusJurdal
