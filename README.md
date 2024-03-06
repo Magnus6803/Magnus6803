@@ -360,3 +360,4 @@ https://admin.phacility.com/p/magnusjurdal/
 https://travis-ci.community/u/magnus6803/preferences/account
 https://www.nuget.org/profiles/MagnusJurdal
 https://www.gatsbyjs.com/dashboard/account
+https://learn.udacity.com/settings/personal-info
