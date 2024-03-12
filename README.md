@@ -367,3 +367,4 @@ https://hashnode.com/@MagnusJurdal
 https://community.n8n.io/u/magnus6803/preferences/profile
 https://forums.percona.com/u/magnus_jurdal/preferences/account
 https://login-ext.identity.oraclecloud.com/ui/v1/myconsole?root=my-info
+https://accounts.eclipse.org/users/magnusjurdal
