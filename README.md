@@ -369,3 +369,4 @@ https://forums.percona.com/u/magnus_jurdal/preferences/account
 https://login-ext.identity.oraclecloud.com/ui/v1/myconsole?root=my-info
 https://accounts.eclipse.org/users/magnusjurdal
 https://git.eclipse.org/r/settings/
+https://rubygems.org/profile/edit
