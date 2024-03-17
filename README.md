@@ -372,3 +372,4 @@ https://git.eclipse.org/r/settings/
 https://rubygems.org/profile/edit
 https://dashboard.doppler.com/workplace/1969bbc7d4ad9cd7356a/account
 https://support.doppler.com/hc/profiles/13054161096603/?locale=en-us
+https://discourse.nixos.org/u/magnus6803/preferences/account
