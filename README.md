@@ -375,3 +375,4 @@ https://support.doppler.com/hc/profiles/13054161096603/?locale=en-us
 https://discourse.nixos.org/u/magnus6803/preferences/account
 https://nixos.wiki/wiki/Special:Preferences
 https://cloud.elastic.co/user/settings
+https://vueschool.io/profile/account
