@@ -378,3 +378,4 @@ https://cloud.elastic.co/user/settings
 https://vueschool.io/profile/account
 https://gaming.amazon.com/settings/account
 https://webrtc.org/getting-started/overview
+https://people.mozilla.org/p/magnusjurdal
