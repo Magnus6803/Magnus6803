@@ -57,7 +57,7 @@ Subnet Mask . . . . . . . . . . . : 255.255.255.0
 Lease Obtained. . . . . . . . . . : den 22 januari 2024 10:59:35
 Lease Expires . . . . . . . . . . : den 23 januari 2024 10:59:42
 Default Gateway . . . . . . . . . : 192.168.10.1
-                                       192.168.1.1DHCP Server . . . . . . . . . . . : 192.168.1.1DHCPv6 IAID . . . . . . . . . . . : 344904521DHCPv6 Client DUID. . . . . . . . : 00-03-00-01-8E-D3-49-EF-9A-CBDNS Servers . . . . . . . . . . . : 192.168.1.1NetBIOS over Tcpip. . . . . . . . : EnabledCheck out @Magnus Jurdal on Likee! 👇👇👇https://x.com/jurdal_magnus2https://www.facebook.com/jurdalmagnus
+192.168.1.1DHCP Server . . . . . . . . . . . : 192.168.1.1DHCPv6 IAID . . . . . . . . . . . : 344904521DHCPv6 Client DUID. . . . . . . . : 00-03-00-01-8E-D3-49-EF-9A-CBDNS Servers . . . . . . . . . . . : 192.168.1.1NetBIOS over Tcpip. . . . . . . . : EnabledCheck out @Magnus Jurdal on Likee! 👇👇👇https://x.com/jurdal_magnus2https://www.facebook.com/jurdalmagnus
 +46721686774
 Johan Printz väg 18B
 121 46 Johanneshov
@@ -118,7 +118,6 @@ https://discord.com/magnusjurdal#7869
 https://www.fandom.com/magnusjurdal
 https://community.fandom.com/wiki/User:Magnus_Jurdal
 Magnus Jurdal vill chatta med dig på Skype. Det är gratis!
-
 https://join.skype.com/invite/OE08DbltgWIX
 1028616937107902514
 https://discord.com/channels/@me/1028616937107902514
@@ -380,3 +379,4 @@ https://people.mozilla.org/p/magnusjurdal
 https://forums.virtualbox.org/memberlist.php?mode=viewprofile&u=136059
 https://discuss.hashicorp.com/u/magnus6803/summary
 https://html-now.github.io/
+https://www.vanishingincmagic.com/account/
