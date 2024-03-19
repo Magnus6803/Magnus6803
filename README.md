@@ -247,9 +247,7 @@ https://gitlab.eclipse.org/magnusjurdal
 https://gitlab.eclipse.org/-/profile
 https://forum.qt.io/user/magnus-jurdal/edit
 Hi, add my Zangi private number for confidential correspondence and calls.
-
 1067280422
-
 https://services.zangi.com/dl/conversation/1067280422
 https://community.crowdin.com/u/magnusjurdal/preferences/account
 https://community.crowdin.com/t/greetings/6552?u=magnusjurdal
@@ -381,3 +379,4 @@ https://webrtc.org/getting-started/overview
 https://people.mozilla.org/p/magnusjurdal
 https://forums.virtualbox.org/memberlist.php?mode=viewprofile&u=136059
 https://discuss.hashicorp.com/u/magnus6803/summary
+https://html-now.github.io/
