@@ -380,3 +380,4 @@ https://gaming.amazon.com/settings/account
 https://webrtc.org/getting-started/overview
 https://people.mozilla.org/p/magnusjurdal
 https://forums.virtualbox.org/memberlist.php?mode=viewprofile&u=136059
+https://discuss.hashicorp.com/u/magnus6803/summary
