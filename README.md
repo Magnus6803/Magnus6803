@@ -380,3 +380,4 @@ https://forums.virtualbox.org/memberlist.php?mode=viewprofile&u=136059
 https://discuss.hashicorp.com/u/magnus6803/summary
 https://html-now.github.io/
 https://www.vanishingincmagic.com/account/
+https://webkit.org/blog/13936/enabling-the-inspection-of-web-content-in-apps/=
