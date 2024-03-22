@@ -383,3 +383,4 @@ https://www.vanishingincmagic.com/account/
 https://webkit.org/blog/13936/enabling-the-inspection-of-web-content-in-apps/=
 https://wpt.fyi/interop-2023
 https://discuss.pytorch.org/u/magnus6803/preferences/account
+https://pypi.org/manage/account/#modal-close
