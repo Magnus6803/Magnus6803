@@ -385,3 +385,4 @@ https://wpt.fyi/interop-2023
 https://discuss.pytorch.org/u/magnus6803/preferences/account
 https://pypi.org/manage/account/#modal-close
 https://dashboard.hcaptcha.com/settings
+https://my.osmc.tv/login/?redirect_to=https://my.osmc.tv/my-account/
