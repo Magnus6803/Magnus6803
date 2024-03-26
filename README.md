@@ -387,3 +387,4 @@ https://pypi.org/manage/account/#modal-close
 https://dashboard.hcaptcha.com/settings
 https://my.osmc.tv/login/?redirect_to=https://my.osmc.tv/my-account/
 https://forum.kodi.tv/
+https://community.metamask.io/u/magnusjurdal/preferences/profile
