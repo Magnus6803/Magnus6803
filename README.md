@@ -393,3 +393,4 @@ https://discuss.hashicorp.com/u/magnus6803/preferences/profile
 https://forum.middlemanapp.com/u/magnus6803/preferences/account
 https://discourse.chef.io/u/magnus6803/preferences/second-factor
 https://gitea.com/user/settings
+https://gitpod.io/user/account
