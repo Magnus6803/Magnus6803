@@ -400,3 +400,4 @@ https://developer.chrome.com/origintrials/#/view_trial/919297273937002497
 https://cli.github.com/manual/gh_pr_create
 https://rubygems.org/profiles/magnusjurdal
 https://packagist.org/users/magnusjurdal/2fa/
+https://hex.pm/users/magnusjurdal
