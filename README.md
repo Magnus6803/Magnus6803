@@ -395,3 +395,4 @@ https://discourse.chef.io/u/magnus6803/preferences/second-factor
 https://gitea.com/user/settings
 https://gitpod.io/user/account
 https://my-profile.springernature.com/
+https://www.loom.com/share/0a2eb787e1004cceb233df756fd66a6e
