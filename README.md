@@ -402,3 +402,4 @@ https://rubygems.org/profiles/magnusjurdal
 https://packagist.org/users/magnusjurdal/2fa/
 https://hex.pm/users/magnusjurdal
 https://www.odoo.com/my
+https://speakerdeck.com/account
