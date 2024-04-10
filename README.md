@@ -406,3 +406,4 @@ https://speakerdeck.com/account
 https://orcid.org/my-orcid?orcid=0009-0007-3306-9484
 https://etjanster.stockholm.se/MinaSidor/inloggad2/mina-uppgifter
 https://discuss.dev.twitch.com/u/magnusjurdal/preferences/account
+https://www.twitch.tv/settings/connections
