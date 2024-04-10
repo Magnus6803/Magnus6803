@@ -404,3 +404,4 @@ https://hex.pm/users/magnusjurdal
 https://www.odoo.com/my
 https://speakerdeck.com/account
 https://orcid.org/my-orcid?orcid=0009-0007-3306-9484
+https://etjanster.stockholm.se/MinaSidor/inloggad2/mina-uppgifter
