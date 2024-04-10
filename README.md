@@ -403,3 +403,4 @@ https://packagist.org/users/magnusjurdal/2fa/
 https://hex.pm/users/magnusjurdal
 https://www.odoo.com/my
 https://speakerdeck.com/account
+https://orcid.org/my-orcid?orcid=0009-0007-3306-9484
