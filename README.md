@@ -409,3 +409,4 @@ https://discuss.dev.twitch.com/u/magnusjurdal/preferences/account
 https://www.twitch.tv/settings/connections
 https://discuss.tensorflow.org/u/magnus_jurdal/preferences/account
 https://www.tensorflow.org/community
+https://colab.research.google.com/github/tensorflow/tensorboard/blob/master/docs/get_started.ipynb#scrollTo=IaELpGcvRRTG
