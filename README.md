@@ -411,3 +411,4 @@ https://discuss.tensorflow.org/u/magnus_jurdal/preferences/account
 https://www.tensorflow.org/community
 https://colab.research.google.com/github/tensorflow/tensorboard/blob/master/docs/get_started.ipynb#scrollTo=IaELpGcvRRTG
 https://serverfault.com/users/952180/magnus-jurdal
+https://profile.nvgs.nvidia.com/profile
