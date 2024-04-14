@@ -422,3 +422,4 @@ https://developer.vimeo.com/#
 https://accounts.muckrock.com/users/MagnusJurdal/
 https://www.documentcloud.org/app?q=%2Buser%3Amagnus-jurdal-112116%20
 https://idp-portal.suse.com/univention/selfservice/#/selfservice/profile
+https://discuss.codemirror.net/u/magnus6803/preferences/second-factor
