@@ -424,3 +424,4 @@ https://www.documentcloud.org/app?q=%2Buser%3Amagnus-jurdal-112116%20
 https://idp-portal.suse.com/univention/selfservice/#/selfservice/profile
 https://discuss.codemirror.net/u/magnus6803/preferences/second-factor
 https://forum.posit.co/u/magnus_jurdal/preferences/second-factor
+https://auth0.com/docs/authenticate/login/auth0-universal-login/universal-login-vs-classic-login/classic-experience
