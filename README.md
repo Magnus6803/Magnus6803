@@ -426,3 +426,4 @@ https://discuss.codemirror.net/u/magnus6803/preferences/second-factor
 https://forum.posit.co/u/magnus_jurdal/preferences/second-factor
 https://auth0.com/docs/authenticate/login/auth0-universal-login/universal-login-vs-classic-login/classic-experience
 https://speakerdeck.com/magnus6803
+https://www.iso.org/obp/ui#account/profile
