@@ -428,3 +428,4 @@ https://auth0.com/docs/authenticate/login/auth0-universal-login/universal-login-
 https://speakerdeck.com/magnus6803
 https://www.iso.org/obp/ui#account/profile
 https://cloud.elastic.co/user/settings
+https://discuss.elastic.co/u/magnus6803/preferences/account
