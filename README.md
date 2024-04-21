@@ -431,3 +431,4 @@ https://cloud.elastic.co/user/settings
 https://discuss.elastic.co/u/magnus6803/preferences/account
 https://community.interledger.org/settings/account
 https://app.eu-central-1.saucelabs.com/integrations
+https://support.tidelift.com/hc/en-us/requests
