@@ -435,3 +435,4 @@ https://support.tidelift.com/hc/en-us/requests
 https://web.postman.co/purchase?quantity=1&utm_source=postman&utm_medium=app_web&utm_term=upgrade&utm_content=navbar
 https://support.microsoft.com/sv-se
 https://app.stepsecurity.io/github/user-settings
+https://discuss.okfn.org/u/magnusjurdal/preferences/second-factor
