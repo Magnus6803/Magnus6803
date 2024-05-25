@@ -454,3 +454,4 @@ https://www.zhihu.com/people/qj5iuh
 https://new.vip.weibo.cn/headportrait/newmall?sinainternalbrowser=topnav&toolbar_hidden=1&F=tq_newyhzx_daohang_&portrait_only=1&share_menu=1&topnavstyle=2
 https://new.vip.weibo.cn/headportrait/history
 https://weibo.com/u/7922605659
+https://substack.com/@magnusjurdal?r=1vm2zu&utm_medium=ios&utm_source=profile
