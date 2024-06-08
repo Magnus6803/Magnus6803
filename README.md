@@ -446,5 +446,4 @@ https://community.gatling.io/u/magnusjurdal/preferences/second-factor
 https://www.nba.com/account/nbaprofile
 https://www.mlb.com/account/account-settings
 https://www.pgatour.com/profile
-https://substack.com/@magnusjurdal?r=1vm2zu&utm_medium=ios&utm_source=profile
 https://suno.com/?__clerk_modal_state=eyJwYXRoIjoiIiwiY29tcG9uZW50TmFtZSI6IlVzZXJQcm9maWxlIiwic3RhcnRQYXRoIjoiL3VzZXIiLCJzb2NpYWxQcm92aWRlciI6Im1pY3Jvc29mdCJ9
