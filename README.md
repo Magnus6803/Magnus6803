@@ -1,4 +1,4 @@
-Magnus Jurdal
+oMagnus Jurdal
 6803040051
 Batteri
 Inställningar
@@ -83,8 +83,8 @@ https://www.reddit.com/u/Vast-Departure-2008/s/1muYm1biBD
 https://chat.whatsapp.com/JZdpmt3R89l8ZVSx31AaGV
 https://medium.com/me/settings#account
 live:.cid.34a80ba9cd5ebcc
-https://t.snapchat.com/uWahZ8L2
-https://www.linkedin.com/in/magnus-jurdal-858565288?u
+https://snapchat.com/uWahZ8L2
+https://www.linkedin.com/in/magnus-jurdal-858565288
 https://account.microsoft.com/?refd=
 https://support.discord.com/hc/sv/profiles/10758636141719
 https://support.discord.com/hc/sv/profiles/10758636141719
