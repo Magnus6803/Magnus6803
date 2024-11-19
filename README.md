@@ -1,4 +1,4 @@
-oMagnus Jurdal
+Mahnus Jurdal
 6803040051
 Batteri
 Inställningar
@@ -69,6 +69,7 @@ Jurdal;Magnus;
 Magnus Jurdal
 TEL;type=CELL;type=VOICE;type=pref:46721686774
 END:VCARD
+https://x.com/jurdal_magnus2
 https://open.spotify.com/user/31sarglkz4puo223sw7fpdxdztlu?si=VQzT8iaPTN21lWeCN6nJBg
 https://telegram.org/
 https://www.facebook.com/jurdalmagnus
