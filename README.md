@@ -57,7 +57,7 @@ Subnet Mask . . . . . . . . . . . : 255.255.255.0
 Lease Obtained. . . . . . . . . . : den 22 januari 2024 10:59:35
 Lease Expires . . . . . . . . . . : den 23 januari 2024 10:59:42
 Default Gateway . . . . . . . . . : 192.168.10.1
-192.168.1.1DHCP Server . . . . . . . . . . . : 192.168.1.1DHCPv6 IAID . . . . . . . . . . . : 344904521DHCPv6 Client DUID. . . . . . . . : 00-03-00-01-8E-D3-49-EF-9A-CBDNS Servers . . . . . . . . . . . : 192.168.1.1NetBIOS over Tcpip. . . . . . . . : EnabledCheck out @Magnus Jurdal on Likee! 👇👇👇https://x.com/jurdal_magnus2https://www.facebook.com/jurdalmagnus
+192.168.1.1DHCP Server . . . . . . . . . . . : 192.168.1.1DHCPv6 IAID . . . . . . . . . . . : 344904521DHCPv6 Client DUID. . . . . . . . : 00-03-00-01-8E-D3-49-EF-9A-CBDNS Servers . . . . . . . . . . . : 192.168.1.1NetBIOS over Tcpip. . . . . . . . : EnabledCheck out @Magnus Jurdal on Likee! https://www.facebook.com/jurdalmagnus
 +46721686774
 Johan Printz väg 18B
 121 46 Johanneshov
