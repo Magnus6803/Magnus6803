@@ -1,0 +1,126 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Secrets and credentials
+*.pem
+*.key
+*.p8
+*.p12
+*.pfx
+*.jks
+secrets.json
+credentials.json
+config.json
+.aws/
+.ssh/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+Thumbs.db
+.DS_Store
+.env.swp
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# Build outputs
+build/
+dist/
+out/
+
+# Logs
+logs/
+*.log
+
+# Private configuration
+private/
+secrets/
+.private/
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# IDE temporary files
+.vscode/settings.json
+.idea/workspace.xml
+.idea/tasks.xml
+
+# Sensitive data patterns
+*password*
+*secret*
+*token*
+*credential*
+*key.json
+*config.json (for sensitive configs)
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+database.yml
+
+# AWS and cloud credentials
+.aws/credentials
+.aws/config
+*.credentials
+gcp-key.json
+azure-credentials.json
+
+# API keys and tokens (if accidentally added)
+api_keys.txt
+tokens.txt
+.apikeys
